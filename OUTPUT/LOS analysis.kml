@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <open>1</open>
+        <Folder id="2">
+            <name>First locations</name>
+            <Placemark id="6">
+                <name>Biskra</name>
+                <Point id="5">
+                    <coordinates>5.752,34.79,20.00000064</coordinates>
+                    <extrude>1</extrude>
+                    <altitudeMode>relativeToGround</altitudeMode>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="3">
+            <name>Second locations</name>
+            <Placemark id="8">
+                <name>Aéronef</name>
+                <Point id="7">
+                    <coordinates>6.414,35.417,1828.8000000000002</coordinates>
+                    <extrude>1</extrude>
+                    <altitudeMode>relativeToGround</altitudeMode>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="4">
+            <name>LOS vectors</name>
+            <Placemark id="10">
+                <name>Biskra, Aéronef</name>
+                <LineString id="9">
+                    <altitudeMode>relativeToGround</altitudeMode>
+                    <coordinates>5.752,34.79,20.00000064 6.414,35.417,1828.8000000000002</coordinates>
+                </LineString>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>
