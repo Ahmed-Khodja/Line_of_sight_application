@@ -33,6 +33,7 @@ name
 Current limitations
 Currently the application has the following limitations -
 
+This application requires internet access for Google Earth data.
 Earth curvature is calculated, assuming that the Earth is a perfect sphere
 Only Google Elevation API is currently supported
 Only natural terrain is accounted for. This application does not take foliage or man-made objects/buildings into account
