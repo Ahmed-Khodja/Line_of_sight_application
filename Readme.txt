@@ -1,7 +1,7 @@
 Overview
 This application allows the user to batch process multiple line of sight queries and output them in graphical form, 
 using data from the Google Elevation API. A .kml file is also produced for viewing in Google Earth.
-
+The video file "video of the application.m4v" demonstrates how the application works.
 
 First of all, you need to change a few things before executing the application.
 
