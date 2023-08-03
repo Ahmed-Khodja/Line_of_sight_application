@@ -6,6 +6,7 @@ read the readme.txt for more informations
 After running Propagation_Model.py :
 
 ![02](https://github.com/Ahmed-Khodja/Propagation-Model/assets/100228452/f125611f-af6a-4fc0-ac33-22bc1e7be718)
+
 This is the interface of the presented application. In the "Aircraft" box, the Excel file path of the aircraft is automatically inserted. Additionally, we have a "VHF" box where we can manually select the antenna from the dropdown list. Furthermore, there is a "Create File" button allowing the generation of files based on the provided information.
 
 Based on the user's choice of coordinates to test with the ground antennas, the files are created to provide information on the line of sight visibility between the ground antenna and the aircraft.
