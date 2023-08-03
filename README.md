@@ -15,6 +15,14 @@ The name of the generated image differs for the two cases. In the case of line o
 
 ![image](https://github.com/Ahmed-Khodja/Propagation-Model/assets/100228452/c6fb7fa5-5560-49d9-95a0-a6ed46c5a8dc)
 
+Let's consider the case of an altitude of 15,000 feet, which is approximately 4.5 km. This altitude is considered low for en-route control and poses certain problems for optimal radio coverage. 
+We choose all VHF antennas with a height of 65 feet, which is approximately 20 meters. This height is typically the elevation at which the antenna is positioned above the ground.
+The terrain is represented by a blue line, while the line of sight visibility is depicted in red in this case due to an intersection with the terrain. In this representation, the curvature of the Earth is taken into account, and it is shown by the orange line to provide a more realistic view of the position, although this figure assumes that the Earth is a perfect sphere.
+
+It is essential to note that the scale of the graph considers the height above sea level rather than above the ground.
+
+For a better visualization, representing the two points on Google Earth is required to obtain the actual positions and observe the intersection with the terrain. The resulting figure from the KML file is as follows: 
+
 ![image](https://github.com/Ahmed-Khodja/Propagation-Model/assets/100228452/6a435514-5f7e-4cba-8d99-1751b6577241)
 
 ![image](https://github.com/Ahmed-Khodja/Propagation-Model/assets/100228452/ad71e742-6f4a-4a4d-870d-1ee90d16de32)
