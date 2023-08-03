@@ -19,13 +19,15 @@ Let's consider the case of an altitude of 15,000 feet, which is approximately 4.
 We choose all VHF antennas with a height of 65 feet, which is approximately 20 meters. This height is typically the elevation at which the antenna is positioned above the ground.
 The terrain is represented by a blue line, while the line of sight visibility is depicted in red in this case due to an intersection with the terrain. In this representation, the curvature of the Earth is taken into account, and it is shown by the orange line to provide a more realistic view of the position, although this figure assumes that the Earth is a perfect sphere.
 
-It is essential to note that the scale of the graph considers the height above sea level rather than above the ground.
-
-For a better visualization, representing the two points on Google Earth is required to obtain the actual positions and observe the intersection with the terrain. The resulting figure from the KML file is as follows: 
+It is essential to note that the scale of the graph considers the height above sea level rather than above the ground. 
 
 ![image](https://github.com/Ahmed-Khodja/Propagation-Model/assets/100228452/6a435514-5f7e-4cba-8d99-1751b6577241)
 
+For a better visualization, representing the two points on Google Earth is required to obtain the actual positions and observe the intersection with the terrain. The resulting figure from the KML file is as follows:
+
 ![image](https://github.com/Ahmed-Khodja/Propagation-Model/assets/100228452/ad71e742-6f4a-4a4d-870d-1ee90d16de32)
+
+For the successful line of sight visibility test, we keep the same geographical coordinates as in the previous case, but we change the flight level. Instead of 15,000 feet, we have chosen a flight level of 35,000 feet, which is equivalent to 10 km of altitude. The resulting figure is as follows: 
 
 ![image](https://github.com/Ahmed-Khodja/Propagation-Model/assets/100228452/b6428398-50dd-4ad5-8f3a-5b3f299d653e)
 
