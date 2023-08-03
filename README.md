@@ -33,12 +33,28 @@ For the successful line of sight visibility test, we keep the same geographical 
 
 ![image](https://github.com/Ahmed-Khodja/Propagation-Model/assets/100228452/83a905d5-df64-4203-84a3-68b37b259178)
 
+
+If an intersection occurred and there is no direct visibility, then:
+
 ![image](https://github.com/Ahmed-Khodja/Propagation-Model/assets/100228452/36901356-2902-4f65-9d5b-8004767a04e9)
+
+f we take the previous example in Part 2 of Chapter 4, where there is direct visibility between the Alger antenna and the aircraft at 35,000 feet, we will obtain the following results:
 
 ![image](https://github.com/Ahmed-Khodja/Propagation-Model/assets/100228452/f175c148-f466-45fe-b74a-730179bb878c)
 
+Then, we will have the choice between 4 cases of sandstorm with corresponding percentage of losses:
+
+Case of no sandstorm (absence of sandstorm) - 0% loss.
+Case of low sandstorm - with a certain percentage of losses.
+Case of moderate sandstorm - with a higher percentage of losses.
+Case of high sandstorm - with the highest percentage of losses.
+
+For example, if we select the case of no sandstorm because we are at the Alger antenna, we will obtain: 
+
 ![image](https://github.com/Ahmed-Khodja/Propagation-Model/assets/100228452/e0c9c81a-e214-4b23-b8f8-68b8e73c0629)
+
+This result takes into account an input power of 47 dBm and uses the Friis propagation model (open environment) with sandstorm losses. Please note that the sandstorm losses are not present (Case of no sandstorm) in this example. The worst-case scenario for the sensitivity of the aircraft is -93 dBm.
 
 ![image](https://github.com/Ahmed-Khodja/Propagation-Model/assets/100228452/1055b6bb-0888-4773-a55c-e22c365e9a40)
 
-
+This figure represents path losses in decibels (dB) as a function of distance in nautical miles (NM). As the distance increases, the path losses become more significant.
