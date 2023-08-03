@@ -51,10 +51,10 @@ Case of high sandstorm - with the highest percentage of losses.
 
 For example, if we select the case of no sandstorm because we are at the Alger antenna, we will obtain: 
 
-![image](https://github.com/Ahmed-Khodja/Propagation-Model/assets/100228452/e0c9c81a-e214-4b23-b8f8-68b8e73c0629)
+![image](https://github.com/Ahmed-Khodja/Propagation-Model/assets/100228452/f1fca5fc-87f1-45da-bff5-f7c127ec3494)
 
 This result takes into account an input power of 47 dBm and uses the Friis propagation model (open environment) with sandstorm losses. Please note that the sandstorm losses are not present (Case of no sandstorm) in this example. The worst-case scenario for the sensitivity of the aircraft is -93 dBm.
 
-![image](https://github.com/Ahmed-Khodja/Propagation-Model/assets/100228452/1055b6bb-0888-4773-a55c-e22c365e9a40)
+![image](https://github.com/Ahmed-Khodja/Propagation-Model/assets/100228452/e0c9c81a-e214-4b23-b8f8-68b8e73c0629)
 
 This figure represents path losses in decibels (dB) as a function of distance in nautical miles (NM). As the distance increases, the path losses become more significant.
