@@ -6,7 +6,11 @@ read the readme.txt for more informations
 After running Propagation_Model.py :
 
 ![02](https://github.com/Ahmed-Khodja/Propagation-Model/assets/100228452/f125611f-af6a-4fc0-ac33-22bc1e7be718)
+This is the interface of the presented application. In the "Aircraft" box, the Excel file path of the aircraft is automatically inserted. Additionally, we have a "VHF" box where we can manually select the antenna from the dropdown list. Furthermore, there is a "Create File" button allowing the generation of files based on the provided information.
 
+Based on the user's choice of coordinates to test with the ground antennas, the files are created to provide information on the line of sight visibility between the ground antenna and the aircraft.
+
+The name of the generated image differs for the two cases. In the case of line of sight visibility, it displays the line in green, and the name contains the term "positive." For the case where the lack of line of sight visibility is present, the line is red, and the name contains the term "negative," as shown in the figure for the two possible scenarios :
 
 ![image](https://github.com/Ahmed-Khodja/Propagation-Model/assets/100228452/c6fb7fa5-5560-49d9-95a0-a6ed46c5a8dc)
 
