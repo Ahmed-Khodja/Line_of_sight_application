@@ -38,7 +38,7 @@ If an intersection occurred and there is no direct visibility, then:
 
 ![image](https://github.com/Ahmed-Khodja/Propagation-Model/assets/100228452/36901356-2902-4f65-9d5b-8004767a04e9)
 
-f we take the previous example in Part 2 of Chapter 4, where there is direct visibility between the Alger antenna and the aircraft at 35,000 feet, we will obtain the following results:
+f we take the previous example, where there is direct visibility between the Alger antenna and the aircraft at 35,000 feet, we will obtain the following results:
 
 ![image](https://github.com/Ahmed-Khodja/Propagation-Model/assets/100228452/f175c148-f466-45fe-b74a-730179bb878c)
 
